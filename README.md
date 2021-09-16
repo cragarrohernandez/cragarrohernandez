@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @CrgGarroHernandez Cristian Garro</h1>
-<h3 align="center">Un apasionado programador</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
